@@ -11,7 +11,7 @@ To expand my expertise, I'm actively building skills in adjacent disciplines lik
 ### Learning Journey 
 | Projects                  | Status                   | Field                         | Work Period           |
 | ----------------------------- | -------------------------- | ----------------------------- | --------------------- |
-| Configuring My Laptop | Maintaining | Bash, Linux    | 2025-05 — current |
+| Configuring My Workstation | Maintaining | Bash, Linux    | 2025-05 — current |
 
 ### Education 
 - [Bachelor's Degree](https://github.com/jlopez6077/jlopez6077/blob/main/bachelor_diploma.png) @ California State Univeristy Sacremento (2020 - 2024)
