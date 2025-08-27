@@ -11,10 +11,10 @@ To expand my expertise, I'm actively building skills in adjacent disciplines lik
 ### Learning Journey 
 | Projects                  | Status                   | Field                         | Work Period           |
 | ----------------------------- | -------------------------- | ----------------------------- | --------------------- |
-| Configuring My Workstation | Maintaining | Bash, Linux    | 2025-05 — current |
+| Configuring My Laptop | Maintaining | Bash, Linux    | 2025-05 — current |
 
 ### Education 
-- [Bachelor's Degree](https://github.com/jlopez6077/bachelor-diploma) @ California State Univeristy Sacremento (2020 - 2024)
+- [Bachelor's Degree](https://github.com/jlopez6077/bachelor_diploma) @ California State Univeristy Sacremento (2020 - 2024)
 
 ### 📚 Books and Articles I've Read
 - **Getting Started with FPGAs Digital Circuit Design, Verilog, and VHDL for Beginners by Russell Merrick** 
