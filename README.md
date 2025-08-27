@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hello there my name is Juan. Nice to meet you 👋
 
-<!--
-**jlopez6077/jlopez6077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me 
 
-Here are some ideas to get you started:
+#### FPGA Developer at [NAWCWD](https://www.navair.navy.mil/nawcwd/);<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills 🛠️
+- **Languages**:  &nbsp;          Verilog, Bash, C, Python
+- **DevTools**:   &nbsp;          Vivado, Vitis, Linux, Git, Nvim, Tmux  
+
+### Learning Journey 🐾
+| Projects                  | Status                   | Field                         | Work Period           |
+| ----------------------------- | -------------------------- | ----------------------------- | --------------------- |
+| Configuring My Workstation | Maintaining | Bash, Linux    | 2025-05 — current |
+
+### Education 🎓
+- [Bachelor's Degree](https://github.com/jlopez6077/bachelor-diploma) @ California State Univeristy Sacremento (2020 - 2024)
+
+### 📚 Books and Articles I've Read
+- **Getting Started with FPGAs Digital Circuit Design, Verilog, and VHDL for Beginners by Russell Merrick** 
+  
+### Certifications 📜
+- [PCB Design for Radio Frequency Boards](https://github.com/jlopez6077/PCB_Design_RF_Boards_Certification_Juan_Lopez.pdf) @ Coursera
+
+More information in my [LinkedIn](https://www.linkedin.com/in/jlopez6077/) 🚀
