@@ -15,9 +15,6 @@ To expand my expertise, I'm actively building skills in adjacent disciplines lik
 
 ### Education 
 - [Bachelor's Degree](https://github.com/jlopez6077/jlopez6077/blob/main/bachelor_diploma.png) @ California State University, Sacramento. (2020 - 2024)
-
-### 📚 Books and Articles I've Read
-- **Getting Started with FPGAs Digital Circuit Design, Verilog, and VHDL for Beginners by Russell Merrick** 
   
 ### Certifications 
 - [PCB Design for Radio Frequency Boards](https://github.com/jlopez6077/jlopez6077/blob/main/PCB_Design_RF_Boards_Certification_Juan_Lopez.pdf) @ IPC
