@@ -6,12 +6,13 @@ To expand my expertise, I'm actively building skills in adjacent disciplines lik
 
 ### Skills 
 - **Languages**:  &nbsp;          Verilog, Bash, C, Python
-- **DevTools**:   &nbsp;          Vivado, Vitis, Linux, Git, Nvim, Tmux  
+- **DevTools**:   &nbsp;          Vivado, Vitis, Linux, Docker, Git, Nvim, Tmux  
 
 ### Learning Journey 
 | Projects                  | Status                   | Field                         | Work Period           |
 | ----------------------------- | -------------------------- | ----------------------------- | --------------------- |
 | Configuring My Workstation | Maintaining | Bash, Linux    | 2025-05 — current |
+| vivado-docker              | Maintaining | Bash, Linux, Docker | 2025-09 - current |
 
 ### Education 
 - [Bachelor's Degree](https://github.com/jlopez6077/jlopez6077/blob/main/bachelor_diploma.png) @ California State University, Sacramento. (2020 - 2024)
