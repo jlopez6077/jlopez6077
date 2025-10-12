@@ -13,7 +13,8 @@ To expand my expertise, I'm actively building skills in adjacent disciplines lik
 | ----------------------------- | -------------------------- | ----------------------------- | --------------------- |
 | Configuring My Workstation | Maintaining | Bash, Linux    | 2025-05 — current |
 | vivado-docker              | Maintaining | Bash, Linux, Docker | 2025-09 - current |
-| FPGA-Based Deterministic Packet Engine | Initalizing | System-Verilog, C++, Python | 2025-10 - current |
+| FPGA-Based Deterministic Packet Engine | Suspended | System-Verilog, C++, Python | 2025-10 - current |
+| Phoenix Basic Library | Initailizing | System-Verilog, Python, Cocotb | 2025-10 - current |
 
 ### Education 
 - [Bachelor's Degree](https://github.com/jlopez6077/jlopez6077/blob/main/bachelor_diploma.png) @ California State University, Sacramento. (2020 - 2024)
