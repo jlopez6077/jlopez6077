@@ -1,17 +1,15 @@
 # Juan Lopez
 ### FPGA Engineer | Hardware Architect | Automation Enthusiast
 
-I specialize in designing and implementing high-performance hardware solutions. Currently at [NAWCWD](https://www.navair.navy.mil/nawcwd/), I architect systems at the lowest level, visualizing data as a fluid and carving the digital landscape into a system of rivers.
-
+I specialize in designing and implementing high-performance hardware solutions. Currently at [NAWCWD](https://www.navair.navy.mil/nawcwd/).
 My passion lies in perfecting the development workflow—eliminating friction through automation and building a robust, location-independent environment powered by Linux and system-level mastery.
 
 ---
 
 ### Skills & Expertise
 
-- **Hardware Description**: SystemVerilog, Verilog, Icarus Verilog
-- **Languages & Automation**: Python, C, Bash, **Tcl**, **GNU Make**
-- **Verification Stack**: **Verilator**, **Cocotb**, Vivado XSim
+- **Languages & Automation**: System-Verilog, Verilog, Python, C, Bash, **Tcl**, **GNU Make**
+- **Verification Stack**: **Verilator**, **Cocotb**, Vivado XSim, Icaurs Verilog
 - **Development Tools**: Vivado, Vitis, Linux, Docker, Git, Neovim, Tmux
 - **Adjacent Fields**: Linux System Programming, Digital Signal Processing (DSP), RF Engineering
 
@@ -21,12 +19,12 @@ My passion lies in perfecting the development workflow—eliminating friction th
 
 | Project | Status | Core Stack | Description |
 | :--- | :--- | :--- | :--- |
-| **[Phoenix Library](https://github.com/jlopez6077/phoenix)** | Maintaining | SystemVerilog, Cocotb | A vendor-neutral collection of parameterizable hardware modules. |
-| **[vivado-docker](https://github.com/jlopez6077/vivado-docker)** | Maintaining | Docker, Bash, Linux | Containerized Xilinx environments for portable development. |
-| **[Forge CLI](https://github.com/jlopez6077/forge)** | Initialized | Python, Bash, Tcl | A professional orchestrator for FPGA build and test workflows. |
-| **Workstation Setup** | Continuous | Bash, Linux | My personal dotfiles and automated workstation configuration. |
-| **Nas Server** | Continuous | Bash, Docker, Linux | My personal Network Attatched Storage. |
-| **Server** | Continuous | Bash, Docker, Linux | My Self-Hosted DevOps Lab, Vivado Labs, Remote Fpga programing. |
+| **[Phoenix Library](https://github.com/jlopez6077/phoenix)** | Maintaining | SystemVerilog, Python | A vendor-neutral collection of parameterizable hardware modules. |
+| **[vivado-docker](https://github.com/jlopez6077/vivado-docker)** | Maintaining | Docker, Bash | Containerized Xilinx environments for portable development. |
+| **[Forge CLI](https://github.com/jlopez6077/forge)** | Initialized | Python, Bash, Tcl, MakeFile | A professional orchestrator for FPGA build and test workflows. |
+| **Workstation Setup** | Continuous | Bash | My personal dotfiles and automated workstation configuration. |
+| **Nas Server** | Continuous | Bash, Docker-Compose | My personal Network Attatched Storage. |
+| **Server** | Continuous | Bash, Docker | My Self-Hosted DevOps Lab, Vivado Labs, Remote Fpga programing. |
 
 ---
 
@@ -49,4 +47,3 @@ I believe that deep mastery of the "under-the-hood" systems—networking, kernel
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jlopez6077/) 
 [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/jlopez6077)
 
-*"Carving the digital landscape into a system of rivers."*
