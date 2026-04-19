@@ -1,22 +1,52 @@
-### Hello there my name is Juan. Nice to meet you 👋
+# Juan Lopez
+### FPGA Engineer | Hardware Architect | Automation Enthusiast
 
-My long-term goal is to build my career as a FPGA Engineer. I'm currently at [NAWCWD](https://www.navair.navy.mil/nawcwd/), where I specialize in designing and implementing hardware solutions. I'm fascinated by the challenge of architecting systems at the lowest level, visualizing data as a fluid and carving the digital landscape into a system of rivers.
+I specialize in designing and implementing high-performance hardware solutions. Currently at [NAWCWD](https://www.navair.navy.mil/nawcwd/), I architect systems at the lowest level, visualizing data as a fluid and carving the digital landscape into a system of rivers.
 
-To expand my expertise, I'm actively building skills in adjacent disciplines like Linux System Programming, Digital Signal Processing, and RF Engineering. My passion lies in perfecting my personal workflow—automating repetitive tasks, creating seamless workspace transitions, and eliminating friction in my development process. I believe that a deep mastery of Linux, networking, and system-level knowledge is the key to building the ultimate, location-independent development environment.
+My passion lies in perfecting the development workflow—eliminating friction through automation and building a robust, location-independent environment powered by Linux and system-level mastery.
 
-### Skills 
-- **Languages**:  &nbsp;          SystemVerilog, Verilog, Bash, Python, C 
-- **DevTools**:   &nbsp;          Vivado, Vitis, Linux, Docker, Git, Nvim, Tmux  
+---
 
-### Learning Journey 
-| Projects                  | Status                   | Field                         | Work Period           |
-| ----------------------------- | -------------------------- | ----------------------------- | --------------------- |
-| Configuring My Workstation | Maintaining | Bash, Linux    | 2025-05 — current |
-| vivado-docker              | Maintaining | Bash, Linux, Docker | 2025-09 - current |
-| FPGA-Based Deterministic Packet Engine | Suspended | System-Verilog, C++, Python | 2025-10 |
-| Phoenix Basic Library | Maintaining | System-Verilog, Python, Cocotb | 2025-10 - current |
+### Skills & Expertise
 
-### Education 
-- [Bachelor's Degree](https://github.com/jlopez6077/jlopez6077/blob/main/bachelor_diploma.png) @ California State University, Sacramento. (2020 - 2024)
+- **Hardware Description**: SystemVerilog, Verilog, Icarus Verilog
+- **Languages & Automation**: Python, C, Bash, **Tcl**, **GNU Make**
+- **Verification Stack**: **Verilator**, **Cocotb**, Vivado XSim
+- **Development Tools**: Vivado, Vitis, Linux, Docker, Git, Neovim, Tmux
+- **Adjacent Fields**: Linux System Programming, Digital Signal Processing (DSP), RF Engineering
 
-More information in my [LinkedIn](https://www.linkedin.com/in/jlopez6077/) 🚀
+---
+
+### Projects in Focus
+
+| Project | Status | Core Stack | Description |
+| :--- | :--- | :--- | :--- |
+| **[Phoenix Library](https://github.com/jlopez6077/phoenix)** | Maintaining | SystemVerilog, Cocotb | A vendor-neutral collection of parameterizable hardware modules. |
+| **[vivado-docker](https://github.com/jlopez6077/vivado-docker)** | Maintaining | Docker, Bash, Linux | Containerized Xilinx environments for portable development. |
+| **[Forge CLI](https://github.com/jlopez6077/forge)** | Initialized | Python, Typer, Rich | A professional orchestrator for FPGA build and test workflows. |
+| **Workstation Setup** | 🛠️ Continuous | Bash, Docker, Linux | My personal dotfiles and automated workstation configuration. |
+| **Nas Server** | 🛠️ Continuous | Bash, Docker, Linux | My personal Network Attatched Storage. |
+| **Server** | 🛠️ Continuous | Bash, Docker, Linux | My Self-Hosted DevOps Lab, Vivado Labs, Remote Fpga programing. |
+
+---
+
+### Learning Journey & Philosophy
+I believe that deep mastery of the "under-the-hood" systems—networking, kernel-level Linux, and low-level protocols—is what separates a good engineer from a great one. I am currently expanding my expertise in:
+- **System-Verilog Verification**: Moving beyond simple testbenches into complex, self-checking environments.
+- **Digital Signal Processing**: Bridging the gap between mathematical models and RTL implementation.
+- **RF Engineering**: Understanding the physical layer of communication systems.
+
+---
+
+### Education
+- **Bachelor of Science in Computer Engineering**  
+  *California State University, Sacramento (2020 — 2024)*  
+  [📜 View Diploma](https://github.com/jlopez6077/jlopez6077/blob/main/bachelor_diploma.png)
+
+---
+
+### Connect with me
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jlopez6077/) 
+[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/jlopez6077)
+
+*"Carving the digital landscape into a system of rivers."*
