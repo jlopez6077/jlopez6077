@@ -23,10 +23,10 @@ My passion lies in perfecting the development workflow—eliminating friction th
 | :--- | :--- | :--- | :--- |
 | **[Phoenix Library](https://github.com/jlopez6077/phoenix)** | Maintaining | SystemVerilog, Cocotb | A vendor-neutral collection of parameterizable hardware modules. |
 | **[vivado-docker](https://github.com/jlopez6077/vivado-docker)** | Maintaining | Docker, Bash, Linux | Containerized Xilinx environments for portable development. |
-| **[Forge CLI](https://github.com/jlopez6077/forge)** | Initialized | Python, Typer, Rich | A professional orchestrator for FPGA build and test workflows. |
-| **Workstation Setup** | 🛠️ Continuous | Bash, Docker, Linux | My personal dotfiles and automated workstation configuration. |
-| **Nas Server** | 🛠️ Continuous | Bash, Docker, Linux | My personal Network Attatched Storage. |
-| **Server** | 🛠️ Continuous | Bash, Docker, Linux | My Self-Hosted DevOps Lab, Vivado Labs, Remote Fpga programing. |
+| **[Forge CLI](https://github.com/jlopez6077/forge)** | Initialized | Python, Bash, Tcl | A professional orchestrator for FPGA build and test workflows. |
+| **Workstation Setup** | Continuous | Bash, Linux | My personal dotfiles and automated workstation configuration. |
+| **Nas Server** | Continuous | Bash, Docker, Linux | My personal Network Attatched Storage. |
+| **Server** | Continuous | Bash, Docker, Linux | My Self-Hosted DevOps Lab, Vivado Labs, Remote Fpga programing. |
 
 ---
 
